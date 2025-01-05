@@ -1,0 +1,27 @@
+.fs-0 {
+  font-size: 3rem;
+}
+.fs-7 {
+  font-size: 0.8rem;
+}
+.forget a {
+  color: blue;
+}
+.form-box{
+  box-shadow: 0 4px 8px 0 rgba(238, 233, 233, 0.2), 0 6px 20px 0 rgba(68, 64, 64, 0.19);
+}
+@media screen and (max-width: 992px) {
+  .forget a {
+    color: black;
+  }
+  .form-box{
+    box-shadow: none;
+  }
+}
+
+
+@media screen and (max-width:2000px){
+
+}
+
+
